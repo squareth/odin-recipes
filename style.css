@@ -1,0 +1,49 @@
+#header {
+    color:#3b0b0b;
+    font-size: 60px;
+    font-family:"Times New Roman";
+}
+
+#encourage {
+
+    font-size: 25px;
+    font-family:"Times New Roman";
+    background-color: grey;
+}
+
+.recipe-links {
+    font-size: 20px;
+    color: rgb(120, 70, 200);
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
+h1 {
+    font-size: 38px;
+    background-color: antiquewhite;
+}
+
+.description{
+    color: darkred;
+}
+
+.ingredient{
+    font-size: 15px;
+    color: darkorange;
+}
+
+.list{
+    background-color: bisque;
+    font-weight:700;
+}
+.step{
+   font-size: 20px;
+   color:darkslategrey;
+}
+
+.head {
+    font-size: 28px;
+}
+
